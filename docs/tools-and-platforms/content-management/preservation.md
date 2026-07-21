@@ -73,6 +73,15 @@ End-to-end, client-side encrypted online storage. They are based in the Netherla
 
 50GB of storage costs €0.08/month. You can get 1TB for €4.99/month
 
+**[Filen](https://filen.io/)**
+
+!!! note "Price: $0+"
+
+End-to-end, client-side encrypted online stroage.
+They are based in Germany and the free plan includes 10GB storage.
+
+Apps are available for Windows, Mac, and Linux as well as mobile apps for iOS and Android.
+
 **[SeaFile](https://www.seafile.com/)**
 
 !!! note "Price: \$0-\$100"

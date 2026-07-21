@@ -84,7 +84,6 @@ nav = [
     ]
   },
   { "Course Integration" = [
-    "course-integration/arth-3999.md",
     "course-integration/adms-entp2920-2026.md",
     "course-integration/cmds-4732-2025.md",
     "course-integration/sosc-3800.md"
